@@ -1,5 +1,7 @@
-git test
+<<<<<<< HEAD
 git test master
+git test dev
+git test
 git test
 git test
 git test
